@@ -49,42 +49,7 @@ The human mind is not good coping with a large number of tiny details.  Most of 
 
 Since this data-set has 3 numeric columns, it would be natural to map each column into one dimension in 3D space: (x, y, z).
 
-#### Here's that picture [scroll down to see it]:
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
------
-
+#### Here's that picture :
 <img src="v.png" width="640" height="480">
 
 *Maunga Whau (Mt Eden) is one of about 50 volcanos in the Auckland, New Zealand, volcanic field. This data set gives topographic information for Maunga Whau on a 10m by 10m grid.*
@@ -109,60 +74,6 @@ Change the z-value (3rd column) of just 5 (out of over 5,000) points to some arb
 
 -----
 
-\[scroll down to see the tampered-with picture\]
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
------
-
 The bad data shows as a vertical blue line where it isn't supposed to be:
  in the middle of the smooth green area on the lower right-hand slope of the volcano:
 
@@ -175,10 +86,3 @@ The picture allows us, not just to grasp the whole data set in the blink of an e
 Billions of years of evolution have made us very good in making sense of pictures.  In contrast, we have spent just a few thousands years (human history), making sense of writing, numbers, and data. 
 
 Complex models have their place, but 'debugging' them, and fully understanding them is another matter. Simple, direct rendering and visualization of data is often the best data insight/debugger known to me. I hope that this example has convinced you of this fact too.
-
-
------
-
--- ariel
-
-
